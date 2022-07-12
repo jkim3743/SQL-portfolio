@@ -1,3 +1,5 @@
+![bookkeeping-vs-accounting-Final](https://user-images.githubusercontent.com/11654374/178574373-0c792877-543f-4aa2-851c-bbd374735a74.jpg)
+
 # SQL-portfolio
 
 Background
